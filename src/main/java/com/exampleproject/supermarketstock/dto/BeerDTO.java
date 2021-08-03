@@ -1,10 +1,10 @@
 package com.exampleproject.supermarketstock.dto;
 
+import com.exampleproject.supermarketstock.enums.BeerType;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import one.digitalinnovation.beerstock.enums.BeerType;
 
 import javax.persistence.EnumType;
 import javax.persistence.Enumerated;
